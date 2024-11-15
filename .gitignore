@@ -1,0 +1,7 @@
+.angular/
+.vscode/
+node_modules/
+public/
+.env
+dist/
+package-lock.json
