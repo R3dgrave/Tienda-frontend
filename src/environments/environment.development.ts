@@ -1,5 +1,5 @@
 export const environment = {
     production: false,
-    apiUrl: "http://localhost:3000"
+    apiUrl: "https://tiendaonline-backend-9fnq.onrender.com"
 };
     
