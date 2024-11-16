@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"version": 2,
 	"builds": [
@@ -13,3 +14,6 @@
 		}
 	]
 }
+=======
+{ "rewrites": [{ "source": "/(.*)", "destination": "/" }] }
+>>>>>>> c3fd87560d8dbdc45d4ed2355359394b267936af
