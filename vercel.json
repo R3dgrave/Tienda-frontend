@@ -1,19 +1,8 @@
-<<<<<<< HEAD
 {
-	"version": 2,
-	"builds": [
+	"rewrites": [
 		{
-			"src": "dist/app-e-commerce/index.html",
-			"use": "@vercel/static"
-		}
-	],
-	"routes": [
-		{
-			"src": "/(.*)",
-			"dest": "/index.html"
+			"source": "/(.*)",
+			"destination": "/"
 		}
 	]
 }
-=======
-{ "rewrites": [{ "source": "/(.*)", "destination": "/" }] }
->>>>>>> c3fd87560d8dbdc45d4ed2355359394b267936af
